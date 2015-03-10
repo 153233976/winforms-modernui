@@ -3,6 +3,12 @@ MetroFramework - Minimal
 
 Brings the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications. 
 
+Changes
+-------
+* Only four controls included
+* Replaced 'Segoe UI' font with 'Verdana'
+* Compiled for .NET 4.0
+
 Supported platforms
 -------------------
 * Windows XP SP1/SP2/SP3 (without Aero Glass)
@@ -21,65 +27,10 @@ Controls supported
 * Label
 * ProgressBar
 
-Watch it in Action
-----------
-[![MetroFramework](http://i.imgur.com/PigyRpU.jpg)](http://youtu.be/2aR0OPzn1p0)
-
 Screenshots
 ----------
-*Light*
-
-![MetroFramework](http://i.imgur.com/ix1FRru.jpg)
 ![MetroFramework](http://i.imgur.com/YXDDMT6.jpg)
 ![MetroFramework](http://i.imgur.com/2lsnqT4.jpg)
-
-*MetroContext Menu*
-
-![MetroContext](http://i.imgur.com/6k0E7yA.jpg)
-
-*MetroMessageBox*
-
-![MetroFramework](http://i.imgur.com/hGQeCAU.jpg)
-![MetroFramework](http://i.imgur.com/2o3w0sn.jpg)
-![MetroFramework](http://i.imgur.com/x6rSYmI.jpg)
-![MetroFramework](http://i.imgur.com/P7E3EPd.jpg)
-![MetroFramework](http://i.imgur.com/xem9sCO.jpg)
-![MetroFramework](http://i.imgur.com/frhc99m.jpg)
-
-*DateTimePicker*
-
-![MetroDateTime](http://i.imgur.com/IPTQPBS.jpg)
-
-*Grid*
-
-![MetroGrid](http://i.imgur.com/MxP97bj.jpg)
-
-*Dark*
-
-![MetroFramework](http://i.imgur.com/Ho6WQpX.jpg)
-![MetroFramework](http://i.imgur.com/f0S0I0z.jpg)
-![MetroFramework](http://i.imgur.com/tYwfeq8.jpg)
-
-*MetroContext Menu*
-
-![MetroContext](http://i.imgur.com/dqOXrwR.jpg)
-
-*MetroMessageBox*
-
-![MetroFramework](http://i.imgur.com/lSyVdPg.jpg)
-![MetroFramework](http://i.imgur.com/rsNpkHP.jpg)
-![MetroFramework](http://i.imgur.com/9fMa7VI.jpg)
-![MetroFramework](http://i.imgur.com/qSzeXsw.jpg)
-![MetroFramework](http://i.imgur.com/YksXEjN.jpg)
-![MetroFramework](http://i.imgur.com/6gASnLa.jpg)
-
-*DateTimePicker*
-
-![MetroDateTime](http://i.imgur.com/Y5eNKqj.jpg)
-
-*Grid*
-
-![MetroGrid](http://i.imgur.com/9LrswVO.jpg)
 
 License
 -------
