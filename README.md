@@ -3,18 +3,18 @@ MetroFramework - Minimal
 
 Brings the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications. 
 
-Changes
--------
-* Only four controls included
-* Replaced 'Segoe UI' font with 'Verdana'
-* Compiled for .NET 4.0
-
 Supported platforms
 -------------------
-* Windows XP SP1/SP2/SP3 (without Aero Glass)
+* Windows XP SP1/SP2/SP3
 * Windows Vista
 * Windows 7
 * Windows 8
+
+Changes
+-------
+* Only 4 controls included
+* Replaced 'Segoe UI' font with 'Verdana'
+* Compiled for .NET 4.0
 
 Requirements
 ------------
