@@ -1,13 +1,7 @@
-MetroFramework - WinForms on steroids.
---------------------------------------
+MetroFramework - Minimal
+------------------------
 
 Brings the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications. 
-
-Install via NuGet 
-------------------
-    Install-Package MetroModernUI
-
-Link: https://www.nuget.org/packages/MetroModernUI/
 
 Supported platforms
 -------------------
@@ -18,35 +12,14 @@ Supported platforms
 
 Requirements
 ------------
-* .NET Framework 2.0 and above.
+* .NET Framework 4.0 and above.
 
 Controls supported
 ------------------
-* Button
 * ComboBox
 * Checkbox
-* RadioButton
-* Toggle
 * Label
-* Link
-* Panel
-* ScrollBar
-* MetroTile
 * ProgressBar
-* ProgressSpinner
-* TabControl
-* TrackBar
-* Custom User Control
-* ContextMenu
-* MessageBox
-* DateTimePicker
-* Grid
-
-Components supported
-------------------
-* StyleExtender (Apply theme propertys to none framework controls)
-* StyleManager (Auto inherit a default style to all used controls)
-* ToolTip
 
 Watch it in Action
 ----------
