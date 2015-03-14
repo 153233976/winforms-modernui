@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Components\MetroStyleManagerDesigner.cs" />
-    <Compile Include="Controls\MetroCheckBoxDesigner.cs" />
     <Compile Include="Controls\MetroLabelDesigner.cs" />
     <Compile Include="Controls\MetroProgressBarDesigner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
