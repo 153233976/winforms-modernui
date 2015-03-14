@@ -12,7 +12,7 @@ Supported platforms
 
 Changes
 -------
-* Only 4 controls included
+* Only 3 controls included
 * Replaced 'Segoe UI' font with 'Verdana'
 * Compiled for .NET 4.0
 
@@ -23,7 +23,6 @@ Requirements
 Controls supported
 ------------------
 * ComboBox
-* Checkbox
 * Label
 * ProgressBar
 
